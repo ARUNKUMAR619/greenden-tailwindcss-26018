@@ -45,7 +45,7 @@ This project was built to:
 
 🌍 Live Demo
 
-(Add your deployed link here later)
+(https://arunkumar619.github.io/greenden-tailwindcss-26018/)
 
 ---
 
